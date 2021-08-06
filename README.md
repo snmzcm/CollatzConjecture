@@ -31,8 +31,8 @@ ________________________________________________________________________________
 
 ##  Usage
 
-Execute the script however you want
-Enter a positive integer
+Execute the script however you want and 
+ Enter a positive integer
 
 It works like this:
 ```
