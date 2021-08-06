@@ -9,10 +9,13 @@ In case you are not satisfied with this basic explanation, here you can read det
 
 The sequence of numbers involved is sometimes referred to as the **hailstone sequence** or **hailstone numbers** (because the values are usually subject to multiple descents and ascents like hailstones in a cloud), or as **wondrous numbers**.(Wikipedia contributors, 2021b)
 
-                                                                            **References**
+Also you may want to watch this video which made me write this script
+https://youtu.be/094y1Z2wpJg
 
-                                           Wikipedia contributors. (2021b, August 6). *Collatz conjecture*. Wikipedia.
-                                                https://en.wikipedia.org/wiki/Collatz_conjecture
+**References**
+
+Wikipedia contributors. (2021b, August 6). *Collatz conjecture*. Wikipedia.
+  https://en.wikipedia.org/wiki/Collatz_conjecture
     
 ___________________________________________________________________________________________________________________________________________________________________
 
