@@ -36,24 +36,26 @@ Execute the script however you want and
 
 It works like this:
 ```
-Enter the number
+Enter a positive integer
 7
-22  -Odd
-11  -Even
-34  -Odd
-17  -Even
-52  -Odd
-26  -Even
-13  -Even
-40  -Odd
-20  -Even
-10  -Even
-5  -Even
-16  -Odd
-8  -Even
-4  -Even
-2  -Even
-1  -Even
+7  -Odd Number
+22  -Even Number
+11  -Odd Number
+34  -Even Number
+17  -Odd Number
+52  -Even Number
+26  -Even Number
+13  -Odd Number
+40  -Even Number
+20  -Even Number
+10  -Even Number
+5  -Odd Number
+16  -Even Number
+8  -Even Number
+4  -Even Number
+2  -Even Number
+1  -Odd Number
+
 
 ```
 *As you know last three numbers always will be looping according to the problem*
